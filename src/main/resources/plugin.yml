@@ -1,0 +1,9 @@
+name: AntiNetherite
+version: '${project.version}'
+main: me.tl0x.main.AntiNetherite
+api-version: 1.18
+authors: [ tl0x ]
+description: Netherite Armour bad
+commands:
+  toggle:
+    description: "Toggles the mod on or off"
